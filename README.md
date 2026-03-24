@@ -1,6 +1,6 @@
-# Course Explainer App
+# Overview
 
-This is a simple web application built using Python and Flask that provides an overview and detailed information about various courses.
+This is a simple web application built using Python and Flask to try hands-on Claude features and functionality
 
 ## Features
 
